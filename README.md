@@ -1,9 +1,8 @@
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viethoang5426/viethoang5426/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viethoang5426/viethoang5426/output/github-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/viethoang5426/viethoang5426/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viethoang5426/viethoang5426/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viethoang5426/viethoang5426/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man contribution graph animation" src="https://raw.githubusercontent.com/viethoang5426/viethoang5426/output/pacman-contribution-graph.svg" />
 </picture>
 
 # Hi, I'm Cao Việt Hoàng 👋
@@ -52,10 +51,5 @@ I build practical web products and intelligent workflows that connect AI with re
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=ffffff" alt="Google Gemini" />
 </p>
 
-## Arcade contribution journey
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viethoang5426/viethoang5426/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viethoang5426/viethoang5426/output/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man contribution graph animation" src="https://raw.githubusercontent.com/viethoang5426/viethoang5426/output/pacman-contribution-graph.svg" />
-</picture>
+
