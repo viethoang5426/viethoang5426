@@ -1,5 +1,11 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viethoang5426/viethoang5426/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viethoang5426/viethoang5426/output/github-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/viethoang5426/viethoang5426/output/github-snake.svg" />
+</picture>
+
 # Hi, I'm Cao Việt Hoàng 👋
 
 ### Full-stack Developer · AI Agent & Automation Builder
@@ -52,11 +58,3 @@ I build practical web products and intelligent workflows that connect AI with re
 | [SREACH-AI](https://github.com/viethoang5426/SREACH-AI) | Intelligent search app with AI summaries, search history, bookmarks, and authentication. | Next.js, TypeScript, Tailwind CSS, Supabase |
 | [Chrome Note Link V2](https://github.com/viethoang5426/NOTE-LINK-CHROME-EXTENSION) | Chrome extension for saving, organizing, searching, and syncing links with personal notes. | JavaScript, Chrome APIs, Supabase, Google Auth |
 | [Yummy Store](https://github.com/viethoang5426/YUMMY-STORE) | E-commerce backend with authentication, product search, carts, orders, image storage, and email notifications. | Node.js, Express, MongoDB, Elasticsearch, JWT |
-
-## Contribution journey
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viethoang5426/viethoang5426/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viethoang5426/viethoang5426/output/github-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/viethoang5426/viethoang5426/output/github-snake.svg" />
-</picture>
