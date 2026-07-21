@@ -8,7 +8,9 @@
 
 # Hi, I'm Cao Việt Hoàng 👋
 
-### Full-stack Developer · AI Agent & Automation Builder
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=680&lines=Full-stack+Developer;AI+Agent+%26+Automation+Builder;Turning+ideas+into+useful+products" alt="Typing SVG" />
+</a>
 
 I build practical web products and intelligent workflows that connect AI with real business needs.
 
@@ -50,11 +52,10 @@ I build practical web products and intelligent workflows that connect AI with re
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=ffffff" alt="Google Gemini" />
 </p>
 
-## Featured projects
+## Arcade contribution journey
 
-| Project | What it does | Main technologies |
-| --- | --- | --- |
-| [AUTO REPLY FANPAGE FACEBOOK](https://github.com/viethoang5426/AUTO-REPLY-PAGE-FACEBOOK) | AI-powered Facebook Messenger workflow that matches customer questions with Q&A data and remembers conversations. | n8n, Gemini, Google Sheets, PostgreSQL, Facebook API |
-| [SREACH-AI](https://github.com/viethoang5426/SREACH-AI) | Intelligent search app with AI summaries, search history, bookmarks, and authentication. | Next.js, TypeScript, Tailwind CSS, Supabase |
-| [Chrome Note Link V2](https://github.com/viethoang5426/NOTE-LINK-CHROME-EXTENSION) | Chrome extension for saving, organizing, searching, and syncing links with personal notes. | JavaScript, Chrome APIs, Supabase, Google Auth |
-| [Yummy Store](https://github.com/viethoang5426/YUMMY-STORE) | E-commerce backend with authentication, product search, carts, orders, image storage, and email notifications. | Node.js, Express, MongoDB, Elasticsearch, JWT |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viethoang5426/viethoang5426/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viethoang5426/viethoang5426/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man contribution graph animation" src="https://raw.githubusercontent.com/viethoang5426/viethoang5426/output/pacman-contribution-graph.svg" />
+</picture>
